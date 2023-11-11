@@ -1,0 +1,31 @@
+# Terpz710 waz here :p
+
+# Made by Terpz710
+
+# Edit the broadcast message here
+# Add as many lines as needed
+# It will pick a random message from the array below everytime the interval restarts
+
+message:
+  line1: "Welcome to the server!"
+  line2: "Feel free to explore."
+  line3: "Have fun and be respectful."
+  line4: "Visit our website: §eexample.com"
+  line5: "Follow us on Twitter: §e@ServerName"
+
+# Broadcast interval in ticks:
+# 1sec = 20 ticks
+# 5sec: 100 ticks
+# 10sec: 200 ticks
+# 15sec: 300 ticks
+# 20sec: 400 ticks
+# 25sec: 500 ticks
+# 30sec: 600 ticks
+# 35sec: 700 ticks
+# 40sec: 800 ticks
+# 45sec: 900 ticks
+# 50sec: 1000 ticks
+# 55sec: 1100 ticks
+# 1min: 1200 ticks
+
+broadcast_interval: 1200
